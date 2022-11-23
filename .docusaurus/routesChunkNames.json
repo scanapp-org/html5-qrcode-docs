@@ -1,0 +1,204 @@
+{
+  "/html5-qrcode-docs/blog-e1d": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "cccd0e21"
+  },
+  "/html5-qrcode-docs/blog/archive-93b": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "archive": "81f837b7"
+  },
+  "/html5-qrcode-docs/blog/first-blog-post-f44": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/html5-qrcode-docs/blog/long-blog-post-2ae": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/html5-qrcode-docs/blog/mdx-blog-post-475": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/html5-qrcode-docs/blog/tags-987": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "tags": "31e7fca2"
+  },
+  "/html5-qrcode-docs/blog/tags/docusaurus-751": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "e013cf87",
+    "listMetadata": "1e628815"
+  },
+  "/html5-qrcode-docs/blog/tags/facebook-4b9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "92a7221d",
+    "listMetadata": "43f614d6"
+  },
+  "/html5-qrcode-docs/blog/tags/hello-d41": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "992326e8",
+    "listMetadata": "884fac93"
+  },
+  "/html5-qrcode-docs/blog/tags/hola-0b0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "afe08fc0",
+    "listMetadata": "23830242"
+  },
+  "/html5-qrcode-docs/blog/welcome-4a4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "bad6c568"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/html5-qrcode-docs/markdown-page-19b": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "e1240689"
+    },
+    "content": "393be207"
+  },
+  "/html5-qrcode-docs/docs-d8a": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "04fd9885"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/html5-qrcode-docs/docs/category/tutorial---basics-c6e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7a222746"
+  },
+  "/html5-qrcode-docs/docs/category/tutorial---extras-3eb": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "51055a3b"
+  },
+  "/html5-qrcode-docs/docs/intro-8ed": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/congratulations-2ad": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/create-a-blog-post-017": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/create-a-document-73c": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/create-a-page-4db": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/deploy-your-site-27e": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/html5-qrcode-docs/docs/tutorial-basics/markdown-features-710": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/html5-qrcode-docs/docs/tutorial-extras/manage-docs-versions-74b": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/html5-qrcode-docs/docs/tutorial-extras/translate-your-site-73e": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/html5-qrcode-docs/-c28": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "e1240689"
+    },
+    "config": "5e9f5e1a"
+  }
+}

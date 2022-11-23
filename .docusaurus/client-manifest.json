@@ -1,0 +1,675 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "210": [
+      532,
+      2529,
+      3085,
+      3089,
+      6103,
+      7918,
+      8610,
+      210
+    ],
+    "2529": [
+      210,
+      532,
+      3089,
+      6103,
+      8610,
+      2529
+    ],
+    "4972": [
+      4972
+    ],
+    "17896441": [
+      210,
+      532,
+      7918
+    ],
+    "23830242": [
+      272
+    ],
+    "59362658": [
+      2267
+    ],
+    "main": [
+      532,
+      1303,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      1303
+    ],
+    "01a85c17": [
+      532,
+      4013
+    ],
+    "04fd9885": [
+      4822
+    ],
+    "0e384e19": [
+      9671
+    ],
+    "14eb3368": [
+      532,
+      9817
+    ],
+    "18c41134": [
+      2859
+    ],
+    "1be78505": [
+      532,
+      4972
+    ],
+    "1e4232ab": [
+      8818
+    ],
+    "1e628815": [
+      2582
+    ],
+    "1f391b9e": [
+      210,
+      532,
+      3085
+    ],
+    "31e7fca2": [
+      2552
+    ],
+    "393be207": [
+      7414
+    ],
+    "43f614d6": [
+      8623
+    ],
+    "51055a3b": [
+      7445
+    ],
+    "533a09ca": [
+      4607
+    ],
+    "5c868d36": [
+      5589
+    ],
+    "6875c492": [
+      210,
+      532,
+      2529,
+      8610
+    ],
+    "73664a40": [
+      3514
+    ],
+    "7661071f": [
+      9642
+    ],
+    "7a222746": [
+      1867
+    ],
+    "814f3328": [
+      2535
+    ],
+    "81f837b7": [
+      4812
+    ],
+    "822bd8ab": [
+      6504
+    ],
+    "8717b14a": [
+      948
+    ],
+    "884fac93": [
+      791
+    ],
+    "925b3f96": [
+      9003
+    ],
+    "92a7221d": [
+      194
+    ],
+    "935f2afb": [
+      53
+    ],
+    "992326e8": [
+      486
+    ],
+    "9e4087bc": [
+      3608
+    ],
+    "a6aa9e1f": [
+      210,
+      532,
+      2529,
+      3089
+    ],
+    "afe08fc0": [
+      7413
+    ],
+    "bad6c568": [
+      6952
+    ],
+    "c4f5d8e4": [
+      532,
+      4195
+    ],
+    "ccc49370": [
+      210,
+      532,
+      2529,
+      6103
+    ],
+    "cccd0e21": [
+      3289
+    ],
+    "d9f32620": [
+      1914
+    ],
+    "dff1c289": [
+      3792
+    ],
+    "e013cf87": [
+      15
+    ],
+    "e1240689": [
+      511
+    ],
+    "e273c56f": [
+      2362
+    ],
+    "e44a2883": [
+      6755
+    ],
+    "f4f34a3a": [
+      8636
+    ],
+    "f55d3e7a": [
+      4193
+    ],
+    "styles": [
+      179,
+      210,
+      1303,
+      2529,
+      3085,
+      3089,
+      4013,
+      4195,
+      6103,
+      7918,
+      8610,
+      9514,
+      9817,
+      532
+    ]
+  },
+  "assets": {
+    "15": {
+      "js": [
+        {
+          "file": "assets/js/e013cf87.05f6d341.js",
+          "hash": "0250d698d18cf0ce",
+          "publicPath": "/html5-qrcode-docs/assets/js/e013cf87.05f6d341.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.a05aac45.js",
+          "hash": "c49fbeae01f4992c",
+          "publicPath": "/html5-qrcode-docs/assets/js/935f2afb.a05aac45.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.16e3273d.js",
+          "hash": "f9ca36ee4c8992a5",
+          "publicPath": "/html5-qrcode-docs/assets/js/main.16e3273d.js"
+        }
+      ]
+    },
+    "194": {
+      "js": [
+        {
+          "file": "assets/js/92a7221d.21b10ddd.js",
+          "hash": "ec4eaba7819f7c28",
+          "publicPath": "/html5-qrcode-docs/assets/js/92a7221d.21b10ddd.js"
+        }
+      ]
+    },
+    "210": {
+      "js": [
+        {
+          "file": "assets/js/210.6591e0c3.js",
+          "hash": "6dd95cb92c151beb",
+          "publicPath": "/html5-qrcode-docs/assets/js/210.6591e0c3.js"
+        }
+      ]
+    },
+    "272": {
+      "js": [
+        {
+          "file": "assets/js/23830242.0d32df8e.js",
+          "hash": "d8b234891faa51fc",
+          "publicPath": "/html5-qrcode-docs/assets/js/23830242.0d32df8e.js"
+        }
+      ]
+    },
+    "486": {
+      "js": [
+        {
+          "file": "assets/js/992326e8.8c160b93.js",
+          "hash": "707d1a8fce9b1dff",
+          "publicPath": "/html5-qrcode-docs/assets/js/992326e8.8c160b93.js"
+        }
+      ]
+    },
+    "511": {
+      "js": [
+        {
+          "file": "assets/js/e1240689.507015e5.js",
+          "hash": "cc349db5ce3e2398",
+          "publicPath": "/html5-qrcode-docs/assets/js/e1240689.507015e5.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.f860236f.css",
+          "hash": "1c13639b7da6a811",
+          "publicPath": "/html5-qrcode-docs/assets/css/styles.f860236f.css"
+        }
+      ]
+    },
+    "791": {
+      "js": [
+        {
+          "file": "assets/js/884fac93.24cf59d1.js",
+          "hash": "25e65f1758b471d4",
+          "publicPath": "/html5-qrcode-docs/assets/js/884fac93.24cf59d1.js"
+        }
+      ]
+    },
+    "948": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.7111cf06.js",
+          "hash": "574defcb337b2d41",
+          "publicPath": "/html5-qrcode-docs/assets/js/8717b14a.7111cf06.js"
+        }
+      ]
+    },
+    "1303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.c85c9a1a.js",
+          "hash": "933d3f8b2180cbd1",
+          "publicPath": "/html5-qrcode-docs/assets/js/runtime~main.c85c9a1a.js"
+        }
+      ]
+    },
+    "1867": {
+      "js": [
+        {
+          "file": "assets/js/7a222746.d5312147.js",
+          "hash": "39b04ac8d7ac03f4",
+          "publicPath": "/html5-qrcode-docs/assets/js/7a222746.d5312147.js"
+        }
+      ]
+    },
+    "1914": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.6f15d607.js",
+          "hash": "a1208300d5970f16",
+          "publicPath": "/html5-qrcode-docs/assets/js/d9f32620.6f15d607.js"
+        }
+      ]
+    },
+    "2267": {
+      "js": [
+        {
+          "file": "assets/js/59362658.726dadec.js",
+          "hash": "f4dac6b3baf570c1",
+          "publicPath": "/html5-qrcode-docs/assets/js/59362658.726dadec.js"
+        }
+      ]
+    },
+    "2362": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.0fa06c30.js",
+          "hash": "201547dd22cdbe57",
+          "publicPath": "/html5-qrcode-docs/assets/js/e273c56f.0fa06c30.js"
+        }
+      ]
+    },
+    "2529": {
+      "js": [
+        {
+          "file": "assets/js/2529.2fbb37d0.js",
+          "hash": "9d8973ac8787073d",
+          "publicPath": "/html5-qrcode-docs/assets/js/2529.2fbb37d0.js"
+        }
+      ]
+    },
+    "2535": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.94839d7f.js",
+          "hash": "1f5308377a3c9b34",
+          "publicPath": "/html5-qrcode-docs/assets/js/814f3328.94839d7f.js"
+        }
+      ]
+    },
+    "2552": {
+      "js": [
+        {
+          "file": "assets/js/31e7fca2.a134427a.js",
+          "hash": "fb1a0504d4c88503",
+          "publicPath": "/html5-qrcode-docs/assets/js/31e7fca2.a134427a.js"
+        }
+      ]
+    },
+    "2582": {
+      "js": [
+        {
+          "file": "assets/js/1e628815.0f821fa3.js",
+          "hash": "4c6ed0e8e47e6990",
+          "publicPath": "/html5-qrcode-docs/assets/js/1e628815.0f821fa3.js"
+        }
+      ]
+    },
+    "2859": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.3ef5619a.js",
+          "hash": "fc467c547ac9c2c4",
+          "publicPath": "/html5-qrcode-docs/assets/js/18c41134.3ef5619a.js"
+        }
+      ]
+    },
+    "3085": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.49248fd1.js",
+          "hash": "01041a276667075c",
+          "publicPath": "/html5-qrcode-docs/assets/js/1f391b9e.49248fd1.js"
+        }
+      ]
+    },
+    "3089": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.5b7f6d26.js",
+          "hash": "fc8541cbd04fe78d",
+          "publicPath": "/html5-qrcode-docs/assets/js/a6aa9e1f.5b7f6d26.js"
+        }
+      ]
+    },
+    "3289": {
+      "js": [
+        {
+          "file": "assets/js/cccd0e21.d5fee449.js",
+          "hash": "5957c42c86b4a9cd",
+          "publicPath": "/html5-qrcode-docs/assets/js/cccd0e21.d5fee449.js"
+        }
+      ]
+    },
+    "3514": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.8d5a97fc.js",
+          "hash": "badcfb04ce97c36d",
+          "publicPath": "/html5-qrcode-docs/assets/js/73664a40.8d5a97fc.js"
+        }
+      ]
+    },
+    "3608": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.3c3694bb.js",
+          "hash": "4717fe492ba4a95e",
+          "publicPath": "/html5-qrcode-docs/assets/js/9e4087bc.3c3694bb.js"
+        }
+      ]
+    },
+    "3792": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.240f9d24.js",
+          "hash": "67ce4d43cbd606bf",
+          "publicPath": "/html5-qrcode-docs/assets/js/dff1c289.240f9d24.js"
+        }
+      ]
+    },
+    "4013": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.e42d8b30.js",
+          "hash": "7fb563e06bb91a4f",
+          "publicPath": "/html5-qrcode-docs/assets/js/01a85c17.e42d8b30.js"
+        }
+      ]
+    },
+    "4193": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.fa8a46ff.js",
+          "hash": "0cdb81132eccc4f3",
+          "publicPath": "/html5-qrcode-docs/assets/js/f55d3e7a.fa8a46ff.js"
+        }
+      ]
+    },
+    "4195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.14c6d1c6.js",
+          "hash": "a67d42ad863d8d3f",
+          "publicPath": "/html5-qrcode-docs/assets/js/c4f5d8e4.14c6d1c6.js"
+        }
+      ]
+    },
+    "4607": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.36a97de1.js",
+          "hash": "e0650d2dba0e9716",
+          "publicPath": "/html5-qrcode-docs/assets/js/533a09ca.36a97de1.js"
+        }
+      ]
+    },
+    "4812": {
+      "js": [
+        {
+          "file": "assets/js/81f837b7.ce546f25.js",
+          "hash": "1c9ed81addc5fd0c",
+          "publicPath": "/html5-qrcode-docs/assets/js/81f837b7.ce546f25.js"
+        }
+      ]
+    },
+    "4822": {
+      "js": [
+        {
+          "file": "assets/js/04fd9885.cceebf33.js",
+          "hash": "0f7f57c4e56e6a60",
+          "publicPath": "/html5-qrcode-docs/assets/js/04fd9885.cceebf33.js"
+        }
+      ]
+    },
+    "4972": {
+      "js": [
+        {
+          "file": "assets/js/4972.b1fa9392.js",
+          "hash": "1410fb268e64b44b",
+          "publicPath": "/html5-qrcode-docs/assets/js/4972.b1fa9392.js"
+        },
+        {
+          "file": "assets/js/1be78505.079ad0a4.js",
+          "hash": "b1e372045a4c0387",
+          "publicPath": "/html5-qrcode-docs/assets/js/1be78505.079ad0a4.js"
+        }
+      ]
+    },
+    "5589": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.e51a214c.js",
+          "hash": "a8f71a68d954211f",
+          "publicPath": "/html5-qrcode-docs/assets/js/5c868d36.e51a214c.js"
+        }
+      ]
+    },
+    "6103": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.a7cac22f.js",
+          "hash": "6cb7f31bdd7052e9",
+          "publicPath": "/html5-qrcode-docs/assets/js/ccc49370.a7cac22f.js"
+        }
+      ]
+    },
+    "6504": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.389acf0d.js",
+          "hash": "fbf22ac1dc2371a4",
+          "publicPath": "/html5-qrcode-docs/assets/js/822bd8ab.389acf0d.js"
+        }
+      ]
+    },
+    "6755": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.5bf33c8a.js",
+          "hash": "0965200cf6d9e7b3",
+          "publicPath": "/html5-qrcode-docs/assets/js/e44a2883.5bf33c8a.js"
+        }
+      ]
+    },
+    "6952": {
+      "js": [
+        {
+          "file": "assets/js/bad6c568.3a607886.js",
+          "hash": "74fea308184a00b0",
+          "publicPath": "/html5-qrcode-docs/assets/js/bad6c568.3a607886.js"
+        }
+      ]
+    },
+    "7413": {
+      "js": [
+        {
+          "file": "assets/js/afe08fc0.354ad0ea.js",
+          "hash": "000d12f87fb37903",
+          "publicPath": "/html5-qrcode-docs/assets/js/afe08fc0.354ad0ea.js"
+        }
+      ]
+    },
+    "7414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.5a88c099.js",
+          "hash": "5658c99e1fb26696",
+          "publicPath": "/html5-qrcode-docs/assets/js/393be207.5a88c099.js"
+        }
+      ]
+    },
+    "7445": {
+      "js": [
+        {
+          "file": "assets/js/51055a3b.d6576306.js",
+          "hash": "206cfab118947227",
+          "publicPath": "/html5-qrcode-docs/assets/js/51055a3b.d6576306.js"
+        }
+      ]
+    },
+    "7918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.175aed7a.js",
+          "hash": "304a5ae66cb5c652",
+          "publicPath": "/html5-qrcode-docs/assets/js/17896441.175aed7a.js"
+        }
+      ]
+    },
+    "8610": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.8ea25ad1.js",
+          "hash": "84ed6e89f8ef1941",
+          "publicPath": "/html5-qrcode-docs/assets/js/6875c492.8ea25ad1.js"
+        }
+      ]
+    },
+    "8623": {
+      "js": [
+        {
+          "file": "assets/js/43f614d6.c2015c44.js",
+          "hash": "a92a19ff8c892523",
+          "publicPath": "/html5-qrcode-docs/assets/js/43f614d6.c2015c44.js"
+        }
+      ]
+    },
+    "8636": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.7d89e8f4.js",
+          "hash": "2ddcea45f64d2799",
+          "publicPath": "/html5-qrcode-docs/assets/js/f4f34a3a.7d89e8f4.js"
+        }
+      ]
+    },
+    "8818": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.3fbf0006.js",
+          "hash": "084b37b073caada3",
+          "publicPath": "/html5-qrcode-docs/assets/js/1e4232ab.3fbf0006.js"
+        }
+      ]
+    },
+    "9003": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.13b6c8a7.js",
+          "hash": "a77b48d219e3d964",
+          "publicPath": "/html5-qrcode-docs/assets/js/925b3f96.13b6c8a7.js"
+        }
+      ]
+    },
+    "9642": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.27b82757.js",
+          "hash": "2fc0d2769b06ed81",
+          "publicPath": "/html5-qrcode-docs/assets/js/7661071f.27b82757.js"
+        }
+      ]
+    },
+    "9671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.5575f37a.js",
+          "hash": "f9ac69edcdcbebd9",
+          "publicPath": "/html5-qrcode-docs/assets/js/0e384e19.5575f37a.js"
+        }
+      ]
+    },
+    "9817": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.084f32c1.js",
+          "hash": "64271e9ee38bf6f4",
+          "publicPath": "/html5-qrcode-docs/assets/js/14eb3368.084f32c1.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,2 +1,3 @@
-# html5-qrcode-docs
-Documentation or guide for mebjas/html5-qrcode
+# Documentation and guide for html5-qrcode library
+
+Original library hosted at [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode).

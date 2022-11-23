@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/html5-qrcode-docs/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/html5-qrcode-docs/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/html5-qrcode-docs/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/html5-qrcode-docs/blog/first-blog-post"
+    }
+  ]
+}
