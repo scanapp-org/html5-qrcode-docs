@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhtml_5_qrcode_docs=self.webpackChunkhtml_5_qrcode_docs||[]).push([[194],{8905:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/html5-qrcode-docs/blog/tags/facebook","allTagsPath":"/html5-qrcode-docs/blog/tags","count":1}')}}]);
