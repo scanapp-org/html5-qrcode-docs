@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhtml_5_qrcode_docs=self.webpackChunkhtml_5_qrcode_docs||[]).push([[15],{9820:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/html5-qrcode-docs/blog/tags/docusaurus","allTagsPath":"/html5-qrcode-docs/blog/tags","count":4}')}}]);

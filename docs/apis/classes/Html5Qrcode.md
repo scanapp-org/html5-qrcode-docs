@@ -333,10 +333,10 @@ Start scanning QR codes or bar codes for a given camera.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `cameraIdOrConfig` | [`Html5QrcodeIdentifier`](../modules.md#html5qrcodeidentifier) | Identifier of the camera, it can either be the camera id retrieved from Html5Qrcode#getCameras() method or object with facing mode constraint. |
+| `cameraIdOrConfig` | `string` \| `MediaTrackConstraints` | Identifier of the camera, it can either be the camera id retrieved from Html5Qrcode#getCameras() method or object with facing mode constraint. |
 | `configuration` | `undefined` \| [`Html5QrcodeCameraScanConfig`](../interfaces/Html5QrcodeCameraScanConfig.md) | Extra configurations to tune the code scanner. |
-| `qrCodeSuccessCallback` | `undefined` \| [`QrcodeSuccessCallback`](../modules.md#qrcodesuccesscallback) | Callback called when an instance of a QR code or any other supported bar code is found. |
-| `qrCodeErrorCallback` | `undefined` \| [`QrcodeErrorCallback`](../modules.md#qrcodeerrorcallback) | Callback called in cases where no instance of QR code or any other supported bar code is found. |
+| `qrCodeSuccessCallback` | `undefined` \| `QrcodeSuccessCallback` | Callback called when an instance of a QR code or any other supported bar code is found. |
+| `qrCodeErrorCallback` | `undefined` \| `QrcodeErrorCallback` | Callback called in cases where no instance of QR code or any other supported bar code is found. |
 
 #### Returns
 

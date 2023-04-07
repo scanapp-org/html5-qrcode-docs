@@ -30,10 +30,6 @@ export default {
           "sidebarPath": "/Users/minhazav/Documents/github/scanapp/html5-qrcode-docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
         "theme": {
           "customCss": "/Users/minhazav/Documents/github/scanapp/html5-qrcode-docs/src/css/custom.css"
         }

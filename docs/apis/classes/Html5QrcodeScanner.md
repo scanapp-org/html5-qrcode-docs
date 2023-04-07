@@ -220,8 +220,8 @@ Renders the User Interface.
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `qrCodeSuccessCallback` | [`QrcodeSuccessCallback`](../modules.md#qrcodesuccesscallback) | Callback called when an instance of a QR code or any other supported bar code is found. |
-| `qrCodeErrorCallback` | `undefined` \| [`QrcodeErrorCallback`](../modules.md#qrcodeerrorcallback) | optional, callback called in cases where no instance of QR code or any other supported bar code is found. |
+| `qrCodeSuccessCallback` | `QrcodeSuccessCallback` | Callback called when an instance of a QR code or any other supported bar code is found. |
+| `qrCodeErrorCallback` | `undefined` \| `QrcodeErrorCallback` | optional, callback called in cases where no instance of QR code or any other supported bar code is found. |
 
 #### Returns
 

@@ -1,275 +1,95 @@
 {
-  "/html5-qrcode-docs/__docusaurus/debug-ab1": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/config-cf3": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/content-ad4": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    },
-    "allContent": "allContent---html-5-qrcode-docs-docusaurus-debug-content-246-a7e"
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/globalData-512": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/metadata-f72": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/registry-8c1": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/__docusaurus/debug/routes-a3b": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docusaurus-debug-3-db-ea3"
-    }
-  },
-  "/html5-qrcode-docs/blog-43a": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "items": [
-      {
-        "content": "content---html-5-qrcode-docs-blog-766-359"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blogf-4-f-775"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blog-871-09f"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blog-925-89a"
-      }
-    ],
-    "metadata": "metadata---html-5-qrcode-docs-blogccc-c6d"
-  },
-  "/html5-qrcode-docs/blog/archive-9f0": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "archive": "archive---html-5-qrcode-docs-blog-archive-81-f-4a8"
-  },
-  "/html5-qrcode-docs/blog/first-blog-post-6f9": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "content": "content---html-5-qrcode-docs-blog-first-blog-poste-27-411"
-  },
-  "/html5-qrcode-docs/blog/long-blog-post-57e": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "content": "content---html-5-qrcode-docs-blog-long-blog-post-736-c43"
-  },
-  "/html5-qrcode-docs/blog/mdx-blog-post-493": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "content": "content---html-5-qrcode-docs-blog-mdx-blog-post-593-15f"
-  },
-  "/html5-qrcode-docs/blog/tags-8ea": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "tags": "tags---html-5-qrcode-docs-blog-tags-31-e-1a5"
-  },
-  "/html5-qrcode-docs/blog/tags/docusaurus-603": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "items": [
-      {
-        "content": "content---html-5-qrcode-docs-blog-766-359"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blogf-4-f-775"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blog-871-09f"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blog-925-89a"
-      }
-    ],
-    "tag": "tag---html-5-qrcode-docs-blog-tags-docusauruse-01-6a2",
-    "listMetadata": "listMetadata---html-5-qrcode-docs-blog-tags-docusaurus-1-e-6-dee"
-  },
-  "/html5-qrcode-docs/blog/tags/facebook-c9f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "items": [
-      {
-        "content": "content---html-5-qrcode-docs-blog-766-359"
-      }
-    ],
-    "tag": "tag---html-5-qrcode-docs-blog-tags-facebook-92-a-38c",
-    "listMetadata": "listMetadata---html-5-qrcode-docs-blog-tags-facebook-43-f-406"
-  },
-  "/html5-qrcode-docs/blog/tags/hello-5aa": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "items": [
-      {
-        "content": "content---html-5-qrcode-docs-blog-766-359"
-      },
-      {
-        "content": "content---html-5-qrcode-docs-blog-871-09f"
-      }
-    ],
-    "tag": "tag---html-5-qrcode-docs-blog-tags-hello-992-ace",
-    "listMetadata": "listMetadata---html-5-qrcode-docs-blog-tags-hello-884-54e"
-  },
-  "/html5-qrcode-docs/blog/tags/hola-502": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "items": [
-      {
-        "content": "content---html-5-qrcode-docs-blog-925-89a"
-      }
-    ],
-    "tag": "tag---html-5-qrcode-docs-blog-tags-holaafe-438",
-    "listMetadata": "listMetadata---html-5-qrcode-docs-blog-tags-hola-238-c92"
-  },
-  "/html5-qrcode-docs/blog/welcome-2e0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-blogd-80-e10"
-    },
-    "sidebar": "sidebar---html-5-qrcode-docs-blog-814-c13",
-    "content": "content---html-5-qrcode-docs-blog-welcomed-9-f-721"
-  },
   "/html5-qrcode-docs/markdown-page-cf2": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-markdown-pagea-9-f-a91"
+      "plugin": "a9f6ab03"
     },
-    "content": "content---html-5-qrcode-docs-markdown-page-393-d44"
+    "content": "393be207"
   },
   "/html5-qrcode-docs/docs-90c": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-docsbd-0-c12"
+      "plugin": "bd01d857"
     },
-    "versionMetadata": "versionMetadata---html-5-qrcode-docs-docs-935-036"
+    "versionMetadata": "935f2afb"
   },
   "/html5-qrcode-docs/docs/apis-181": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apisfcc-87e"
+    "__comp": "17896441",
+    "content": "fcc98648"
   },
   "/html5-qrcode-docs/docs/apis/classes/Html5Qrcode-fc5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-classes-html-5-qrcodeed-6-ddc"
+    "__comp": "17896441",
+    "content": "ed62b22e"
   },
   "/html5-qrcode-docs/docs/apis/classes/Html5QrcodeScanner-35d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-classes-html-5-qrcode-scanner-96-e-3db"
+    "__comp": "17896441",
+    "content": "96e362d3"
   },
   "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScannerState-efd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-enums-html-5-qrcode-scanner-state-400-9d8"
+    "__comp": "17896441",
+    "content": "400c29a4"
   },
   "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScanType-7b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-enums-html-5-qrcode-scan-typeb-31-30a"
+    "__comp": "17896441",
+    "content": "b3177f51"
   },
   "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeSupportedFormats-ff6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-enums-html-5-qrcode-supported-formats-09-e-6ec"
+    "__comp": "17896441",
+    "content": "09ed057f"
   },
   "/html5-qrcode-docs/docs/apis/interfaces/CameraCapabilities-4ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-interfaces-camera-capabilities-459-f2b"
+    "__comp": "17896441",
+    "content": "45997a4e"
   },
   "/html5-qrcode-docs/docs/apis/interfaces/CameraDevice-7a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-interfaces-camera-device-8-df-73e"
+    "__comp": "17896441",
+    "content": "8df42017"
   },
   "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeCameraScanConfig-b09": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-interfaces-html-5-qrcode-camera-scan-config-66-b-341"
+    "__comp": "17896441",
+    "content": "66b2fd2e"
   },
   "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeFullConfig-576": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-interfaces-html-5-qrcode-full-config-4-cb-7f5"
+    "__comp": "17896441",
+    "content": "4cbca2df"
   },
   "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeResult-762": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-apis-interfaces-html-5-qrcode-result-9-f-2-d09"
+    "__comp": "17896441",
+    "content": "9f26801e"
   },
   "/html5-qrcode-docs/docs/category/apis-bc2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---html-5-qrcode-docs-docs-category-apis-346-9e0"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3465fda5"
   },
   "/html5-qrcode-docs/docs/category/classes-ed9": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---html-5-qrcode-docs-docs-category-classesb-5-f-3b2"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b5f4f4f4"
   },
   "/html5-qrcode-docs/docs/category/enums-ff9": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---html-5-qrcode-docs-docs-category-enums-7-bc-3fd"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7bcefba3"
   },
   "/html5-qrcode-docs/docs/category/interfaces-f0a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---html-5-qrcode-docs-docs-category-interfacesac-2-6db"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ac242a77"
   },
   "/html5-qrcode-docs/docs/intro-8ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-intro-0-e-3-cec"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/html5-qrcode-docs/docs/supported_code_formats-ce5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-supported-code-formats-3-db-065"
+    "__comp": "17896441",
+    "content": "3dba6d51"
   },
   "/html5-qrcode-docs/docs/supported_frameworks-a8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---html-5-qrcode-docs-docs-supported-frameworks-16-b-002"
+    "__comp": "17896441",
+    "content": "16b1ba9a"
   },
   "/html5-qrcode-docs/-384": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---html-5-qrcode-docs-markdown-pagea-9-f-a91"
+      "plugin": "a9f6ab03"
     },
-    "config": "config---html-5-qrcode-docs-5-e-9-d47"
+    "config": "5e9f5e1a"
   }
 }
