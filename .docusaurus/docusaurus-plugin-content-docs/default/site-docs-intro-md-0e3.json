@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Getting started",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Let's discover html5-qrcode in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/html5-qrcode-docs/docs/category/tutorial---basics"
+    "title": "Supported frameworks",
+    "permalink": "/html5-qrcode-docs/docs/supported_frameworks"
   }
 }

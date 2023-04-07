@@ -11,58 +11,93 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "apis/classes/Html5Qrcode",
+              "path": "/html5-qrcode-docs/docs/apis/classes/Html5Qrcode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/classes/Html5QrcodeScanner",
+              "path": "/html5-qrcode-docs/docs/apis/classes/Html5QrcodeScanner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/enums/Html5QrcodeScannerState",
+              "path": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScannerState",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/enums/Html5QrcodeScanType",
+              "path": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScanType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/enums/Html5QrcodeSupportedFormats",
+              "path": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeSupportedFormats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/interfaces/CameraCapabilities",
+              "path": "/html5-qrcode-docs/docs/apis/interfaces/CameraCapabilities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/interfaces/CameraDevice",
+              "path": "/html5-qrcode-docs/docs/apis/interfaces/CameraDevice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/interfaces/Html5QrcodeCameraScanConfig",
+              "path": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeCameraScanConfig",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/interfaces/Html5QrcodeFullConfig",
+              "path": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeFullConfig",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/interfaces/Html5QrcodeResult",
+              "path": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeResult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "apis/readme",
+              "path": "/html5-qrcode-docs/docs/apis/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/html5-qrcode-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/congratulations",
+              "id": "supported_code_formats",
+              "path": "/html5-qrcode-docs/docs/supported_code_formats",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/create-a-blog-post",
+              "id": "supported_frameworks",
+              "path": "/html5-qrcode-docs/docs/supported_frameworks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/create-a-document",
+              "id": "/category/apis",
+              "path": "/html5-qrcode-docs/docs/category/apis",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/create-a-page",
+              "id": "/category/classes",
+              "path": "/html5-qrcode-docs/docs/category/classes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/deploy-your-site",
+              "id": "/category/enums",
+              "path": "/html5-qrcode-docs/docs/category/enums",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/html5-qrcode-docs/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/html5-qrcode-docs/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/html5-qrcode-docs/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/html5-qrcode-docs/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/html5-qrcode-docs/docs/category/tutorial---extras",
+              "id": "/category/interfaces",
+              "path": "/html5-qrcode-docs/docs/category/interfaces",
               "sidebar": "tutorialSidebar"
             }
           ],

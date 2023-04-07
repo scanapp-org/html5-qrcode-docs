@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ScanApp',
-  tagline: 'Guide for html5-qrcode',
+  tagline: 'Documentation for mebjas/html5-qrcode',
   url: 'https://scanapp.org/',
   baseUrl: '/html5-qrcode-docs/',
   trailingSlash: false,
@@ -66,13 +66,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Guides',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
+            docId: 'apis/readme',
             position: 'left',
             label: 'API',
           },
@@ -82,23 +76,40 @@ const config = {
           //   position: 'left',
           //   label: 'Demo',
           // },
+          {
+            href: 'https://scanapp.org',
+            docId: 'demo',
+            position: 'left',
+            label: 'ScanApp',
+            target: '',
+          },
           // TODO: Move this to scanapp.
           {
             href: 'https://qrcode.minhazav.dev/',
             docId: 'demo',
             position: 'left',
             label: 'Demo',
+            target: '',
           },
           {
             href: 'https://scanapp.org/blog/',
             docId: 'blog',
             position: 'left',
             label: 'Blog',
+            target: '',
+          },
+          {
+            href: 'https://scanapp.org/support/',
+            docId: 'support',
+            position: 'left',
+            label: 'Support articles',
+            target: '',
           },
           {
             href: 'https://github.com/mebjas/html5-qrcode',
             label: 'GitHub',
             position: 'right',
+            target: '',
           },
         ],
       },
@@ -118,6 +129,7 @@ const config = {
                 docId: 'demo',
                 position: 'left',
                 label: 'Demo',
+                target: ''
               },
             ],
           },
@@ -127,6 +139,7 @@ const config = {
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/html5-qrcode',
+                target: ''
               },
               // {
               //   label: 'Discord',
@@ -135,6 +148,7 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/minhazav',
+                target: ''
               },
             ],
           },
@@ -144,10 +158,17 @@ const config = {
               {
                 label: 'Blog',
                 href: 'https://scanapp.org/blog/',
+                target: ''
+              },
+              {
+                label: 'Support articles',
+                href: 'https://scanapp.org/support/',
+                target: ''
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/scanapp-org',
+                target: ''
               },
               // {
               //   label: 'Attributions',

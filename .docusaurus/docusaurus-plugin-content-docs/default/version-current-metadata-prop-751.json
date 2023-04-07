@@ -16,126 +16,204 @@
         "docId": "intro"
       },
       {
-        "type": "category",
-        "label": "Tutorial - Basics",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Create a Page",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/html5-qrcode-docs/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
-          }
-        ],
-        "href": "/html5-qrcode-docs/docs/category/tutorial---basics"
+        "type": "link",
+        "label": "Supported frameworks",
+        "href": "/html5-qrcode-docs/docs/supported_frameworks",
+        "docId": "supported_frameworks"
+      },
+      {
+        "type": "link",
+        "label": "Supported code formats",
+        "href": "/html5-qrcode-docs/docs/supported_code_formats",
+        "docId": "supported_code_formats"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "APIs",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/html5-qrcode-docs/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "label": "html5-qrcode",
+            "href": "/html5-qrcode-docs/docs/apis/",
+            "docId": "apis/readme"
           },
           {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/html5-qrcode-docs/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "type": "category",
+            "label": "Classes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Html5Qrcode",
+                "href": "/html5-qrcode-docs/docs/apis/classes/Html5Qrcode",
+                "docId": "apis/classes/Html5Qrcode"
+              },
+              {
+                "type": "link",
+                "label": "Html5QrcodeScanner",
+                "href": "/html5-qrcode-docs/docs/apis/classes/Html5QrcodeScanner",
+                "docId": "apis/classes/Html5QrcodeScanner"
+              }
+            ],
+            "href": "/html5-qrcode-docs/docs/category/classes"
+          },
+          {
+            "type": "category",
+            "label": "Enums",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Html5QrcodeScannerState",
+                "href": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScannerState",
+                "docId": "apis/enums/Html5QrcodeScannerState"
+              },
+              {
+                "type": "link",
+                "label": "Html5QrcodeScanType",
+                "href": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeScanType",
+                "docId": "apis/enums/Html5QrcodeScanType"
+              },
+              {
+                "type": "link",
+                "label": "Html5QrcodeSupportedFormats",
+                "href": "/html5-qrcode-docs/docs/apis/enums/Html5QrcodeSupportedFormats",
+                "docId": "apis/enums/Html5QrcodeSupportedFormats"
+              }
+            ],
+            "href": "/html5-qrcode-docs/docs/category/enums"
+          },
+          {
+            "type": "category",
+            "label": "Interfaces",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Html5QrcodeResult",
+                "href": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeResult",
+                "docId": "apis/interfaces/Html5QrcodeResult"
+              },
+              {
+                "type": "link",
+                "label": "Html5QrcodeFullConfig",
+                "href": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeFullConfig",
+                "docId": "apis/interfaces/Html5QrcodeFullConfig"
+              },
+              {
+                "type": "link",
+                "label": "Html5QrcodeCameraScanConfig",
+                "href": "/html5-qrcode-docs/docs/apis/interfaces/Html5QrcodeCameraScanConfig",
+                "docId": "apis/interfaces/Html5QrcodeCameraScanConfig"
+              },
+              {
+                "type": "link",
+                "label": "CameraDevice",
+                "href": "/html5-qrcode-docs/docs/apis/interfaces/CameraDevice",
+                "docId": "apis/interfaces/CameraDevice"
+              },
+              {
+                "type": "link",
+                "label": "CameraCapabilities",
+                "href": "/html5-qrcode-docs/docs/apis/interfaces/CameraCapabilities",
+                "docId": "apis/interfaces/CameraCapabilities"
+              }
+            ],
+            "href": "/html5-qrcode-docs/docs/category/interfaces"
           }
         ],
-        "href": "/html5-qrcode-docs/docs/category/tutorial---extras"
+        "href": "/html5-qrcode-docs/docs/category/apis"
       }
     ]
   },
   "docs": {
+    "apis/classes/Html5Qrcode": {
+      "id": "apis/classes/Html5Qrcode",
+      "title": "Html5Qrcode",
+      "description": "html5-qrcode / Html5Qrcode",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/classes/Html5QrcodeScanner": {
+      "id": "apis/classes/Html5QrcodeScanner",
+      "title": "Html5QrcodeScanner",
+      "description": "html5-qrcode / Html5QrcodeScanner",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/enums/Html5QrcodeScannerState": {
+      "id": "apis/enums/Html5QrcodeScannerState",
+      "title": "Html5QrcodeScannerState",
+      "description": "html5-qrcode / Html5QrcodeScannerState",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/enums/Html5QrcodeScanType": {
+      "id": "apis/enums/Html5QrcodeScanType",
+      "title": "Html5QrcodeScanType",
+      "description": "html5-qrcode / Html5QrcodeScanType",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/enums/Html5QrcodeSupportedFormats": {
+      "id": "apis/enums/Html5QrcodeSupportedFormats",
+      "title": "Html5QrcodeSupportedFormats",
+      "description": "html5-qrcode / Html5QrcodeSupportedFormats",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/interfaces/CameraCapabilities": {
+      "id": "apis/interfaces/CameraCapabilities",
+      "title": "CameraCapabilities",
+      "description": "html5-qrcode / CameraCapabilities",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/interfaces/CameraDevice": {
+      "id": "apis/interfaces/CameraDevice",
+      "title": "CameraDevice",
+      "description": "html5-qrcode /  CameraDevice",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/interfaces/Html5QrcodeCameraScanConfig": {
+      "id": "apis/interfaces/Html5QrcodeCameraScanConfig",
+      "title": "Html5QrcodeCameraScanConfig",
+      "description": "html5-qrcode / Html5QrcodeCameraScanConfig",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/interfaces/Html5QrcodeFullConfig": {
+      "id": "apis/interfaces/Html5QrcodeFullConfig",
+      "title": "Html5QrcodeFullConfig",
+      "description": "html5-qrcode / Html5QrcodeFullConfig",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/interfaces/Html5QrcodeResult": {
+      "id": "apis/interfaces/Html5QrcodeResult",
+      "title": "Html5QrcodeResult",
+      "description": "html5-qrcode / Html5QrcodeResult",
+      "sidebar": "tutorialSidebar"
+    },
+    "apis/readme": {
+      "id": "apis/readme",
+      "title": "html5-qrcode",
+      "description": "mebjas/html5-qrcode is an open source web based QR code and barcode scanning library built by mebjas@ under Apache License 2.0 license.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Getting started",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "Let's discover html5-qrcode in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "supported_code_formats": {
+      "id": "supported_code_formats",
+      "title": "Supported code formats",
+      "description": "The library supports a variety of 2D and 1D code formats.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "supported_frameworks": {
+      "id": "supported_frameworks",
+      "title": "Supported frameworks",
+      "description": "We are working continuously on adding support for more and more platforms. If you find a platform or a browser where the library is not working, please feel free to file an issue. Check the demo link to test it out.",
       "sidebar": "tutorialSidebar"
     }
   }

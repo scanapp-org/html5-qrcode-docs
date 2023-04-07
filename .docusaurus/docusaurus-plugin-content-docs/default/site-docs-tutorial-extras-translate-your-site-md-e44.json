@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/html5-qrcode-docs/docs/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/html5-qrcode-docs/docs/category/tutorial---basics"
   }
 }

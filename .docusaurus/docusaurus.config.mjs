@@ -5,7 +5,7 @@
  */
 export default {
   "title": "ScanApp",
-  "tagline": "Guide for html5-qrcode",
+  "tagline": "Documentation for mebjas/html5-qrcode",
   "url": "https://scanapp.org",
   "baseUrl": "/html5-qrcode-docs/",
   "trailingSlash": false,
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/minhazav/Projects/Personal/Github/scanapp/html5-qrcode-docs/sidebars.js",
+          "sidebarPath": "/Users/minhazav/Documents/github/scanapp/html5-qrcode-docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/minhazav/Projects/Personal/Github/scanapp/html5-qrcode-docs/src/css/custom.css"
+          "customCss": "/Users/minhazav/Documents/github/scanapp/html5-qrcode-docs/src/css/custom.css"
         }
       }
     ]
@@ -50,32 +50,43 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Guides"
-        },
-        {
-          "type": "doc",
-          "docId": "intro",
+          "docId": "apis/readme",
           "position": "left",
           "label": "API"
+        },
+        {
+          "href": "https://scanapp.org",
+          "docId": "demo",
+          "position": "left",
+          "label": "ScanApp",
+          "target": ""
         },
         {
           "href": "https://qrcode.minhazav.dev/",
           "docId": "demo",
           "position": "left",
-          "label": "Demo"
+          "label": "Demo",
+          "target": ""
         },
         {
           "href": "https://scanapp.org/blog/",
           "docId": "blog",
           "position": "left",
-          "label": "Blog"
+          "label": "Blog",
+          "target": ""
+        },
+        {
+          "href": "https://scanapp.org/support/",
+          "docId": "support",
+          "position": "left",
+          "label": "Support articles",
+          "target": ""
         },
         {
           "href": "https://github.com/mebjas/html5-qrcode",
           "label": "GitHub",
-          "position": "right"
+          "position": "right",
+          "target": ""
         }
       ],
       "hideOnScroll": false
@@ -94,7 +105,8 @@ export default {
               "href": "https://qrcode.minhazav.dev/",
               "docId": "demo",
               "position": "left",
-              "label": "Demo"
+              "label": "Demo",
+              "target": ""
             }
           ]
         },
@@ -103,11 +115,13 @@ export default {
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/html5-qrcode"
+              "href": "https://stackoverflow.com/questions/tagged/html5-qrcode",
+              "target": ""
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/minhazav"
+              "href": "https://twitter.com/minhazav",
+              "target": ""
             }
           ]
         },
@@ -116,16 +130,23 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "href": "https://scanapp.org/blog/"
+              "href": "https://scanapp.org/blog/",
+              "target": ""
+            },
+            {
+              "label": "Support articles",
+              "href": "https://scanapp.org/support/",
+              "target": ""
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/scanapp-org",
+              "target": ""
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 ScanApp."
+      "copyright": "Copyright © 2023 ScanApp."
     },
     "prism": {
       "theme": {

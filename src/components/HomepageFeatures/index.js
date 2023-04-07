@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/Wavy_Tech-30_Single-02-ai.svg').default,
     description: (
       <>
-        Allows scanning QR Code as well as different types of bar codes. You can scan directly using the webcam or inbuilt camera or scan images on your device.
+        Allows scanning QR Code as well as different types of bar codes. You can scan directly using the webcam or inbuilt camera or scan images on your device. Find <a href="docs/supported_code_formats">different types of supported 1D and 2D codes here</a>.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Works on all platforms like Android, iOS, Windows or Mac. Works across browsers like Chrome, Firefox, Edge, Safari, etc - <a href="">Read more about support.</a>
+        Works on all platforms like Android, iOS, Windows or Mac. Works across browsers like Chrome, Firefox, Edge, Safari, etc. Find <a href="docs/supported_frameworks">compatibility for different frameworks and browsers here.</a>
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/19362653-ai.svg').default,
     description: (
       <>
-        Package comes with end to end UI library - <code> Html5QrcodeScanner</code> as well as a low level library to build your own UI - <code>Html5Qrcode</code>.
+        Package comes with an end to end UI library called <a href="docs/apis/classes/Html5QrcodeScanner"> Html5QrcodeScanner</a> as well as a low level library to build your own UI called <a href="docs/apis/classes/Html5Qrcode">Html5Qrcode</a>.
       </>
     ),
   },
