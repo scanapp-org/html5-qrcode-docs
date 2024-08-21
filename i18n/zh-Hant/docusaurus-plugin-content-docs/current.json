@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.APIs": {
+    "message": "APIs",
+    "description": "The label for category APIs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Classes": {
+    "message": "Classes",
+    "description": "The label for category Classes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Classes.link.generated-index.description": {
+    "message": "html5-qrcode classes",
+    "description": "The generated-index page description for category Classes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enums": {
+    "message": "Enums",
+    "description": "The label for category Enums in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enums.link.generated-index.description": {
+    "message": "html5-qrcode enumerators",
+    "description": "The generated-index page description for category Enums in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Interfaces": {
+    "message": "Interfaces",
+    "description": "The label for category Interfaces in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Interfaces.link.generated-index.description": {
+    "message": "html5-qrcode interfaces",
+    "description": "The generated-index page description for category Interfaces in sidebar tutorialSidebar"
+  }
+}

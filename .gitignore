@@ -1,3 +1,5 @@
 node_modules
+build/
 api/.DS_Store
 .DS_Store
+.docusaurus/

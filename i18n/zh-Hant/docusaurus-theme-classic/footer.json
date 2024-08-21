@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "文檔",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "開發社群",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "相關連結",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "使用教學",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Demo": {
+    "message": "實際展示",
+    "description": "The label of footer link with label=Demo linking to https://qrcode.minhazav.dev/"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/html5-qrcode"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/minhazav"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://scanapp.org/blog/"
+  },
+  "link.item.label.Support articles": {
+    "message": "Q&A",
+    "description": "The label of footer link with label=Support articles linking to https://scanapp.org/support/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/scanapp-org"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 ScanApp.",
+    "description": "The footer copyright"
+  }
+}

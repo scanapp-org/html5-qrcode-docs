@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "ScanApp",
+    "description": "The title in the navbar"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.ScanApp": {
+    "message": "ScanApp",
+    "description": "Navbar item with label ScanApp"
+  },
+  "item.label.Demo": {
+    "message": "實際展示",
+    "description": "Navbar item with label Demo"
+  },
+  "item.label.Blog": {
+    "message": "部落格",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Support articles": {
+    "message": "Q&A",
+    "description": "Navbar item with label Support articles"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
